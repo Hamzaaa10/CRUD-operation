@@ -1,0 +1,14 @@
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\bin\Debug\net8.0\taskbessa.exe
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\bin\Debug\net8.0\taskbessa.deps.json
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\bin\Debug\net8.0\taskbessa.runtimeconfig.json
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\bin\Debug\net8.0\taskbessa.dll
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\bin\Debug\net8.0\taskbessa.pdb
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.dll
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\refint\taskbessa.dll
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.pdb
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\taskbessa.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\taskbessa\taskbessa\obj\Debug\net8.0\ref\taskbessa.dll
