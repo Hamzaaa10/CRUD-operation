@@ -162,18 +162,6 @@ namespace taskbessa
     }
 
 
-        class Persondetails
-        {
-            public string name { get; set; }
-            public string email { get; set; }
-            public string phone { get; set; }
-
-            public Persondetails(string name,string email ,string phone )
-            {
-                this.name = name;
-                this.email = email;
-                this.phone = phone;
-            }
-        }
+        
     
 }
